@@ -17,7 +17,7 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- BLOG-POST-LIST:END -->
 
 
-<details>
+
   <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br />
   <p align="left">
@@ -169,5 +169,4 @@ This is the place where I opensource stuff and break things :rofl:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
   </p>
-</details>
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
