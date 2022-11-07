@@ -14,23 +14,10 @@ This is the place where I opensource stuff and break things :rofl:
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=babystar0908&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Github+Activites&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
-
-![babystar0908's github activity graph](https://activity-graph.herokuapp.com/graph?username=babystar0908&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
 
 ###
 
-<div align="left">
-  <a href="proitdev#6809" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="it.team725@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="itteam725" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+
 
 
   <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
