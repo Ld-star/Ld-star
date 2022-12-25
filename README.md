@@ -1,22 +1,18 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+  Hello, Nice to meet you!.
+  
+  I am a full stack developer, I am going to introduce myself.
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter and Android
-- 💬 &nbsp;I know about Javascript/Typescript/Python or Angular/React/Express/Flask very well.
-- 📫 &nbsp; if You could contact me, my skype: lodestar 2022.
-
-
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
-
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=babystar0908&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-
-###****
-
-
-
+  I'm a ambitious full stack developer seeking an opportunity to work with a team that can utilize my ability to produce creative solutions.
+  
+  I worked as a React Frontend developer for 8+ years and Backend( ASP.NET, PHP, Laravel ) developer for 4+ years.
+  So I'm very familiar with JavaScript, TypeScript, React, Next.js, Redux, React Hooks, unit tests(such as Jest, Cypress).
+  Also I'm very proficient in Bootstrap, TailWind CSS, Material UI, Chakura UI, Styled-Component.
+  Furthermore, I know knowledge about Backend Development and Database very well.
+  I use Git, Jira, Slack, Monday, Trello for project management and discussion.
+  
+  I always make fresh and easy to understand code.
+  And For Good relationship with client and members of team, I am very respect they.
+  Thanks
 
   <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br />
